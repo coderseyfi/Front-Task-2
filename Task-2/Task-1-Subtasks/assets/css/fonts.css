@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Amydor";
+    src: url("../fonts/");
+    src: url("../fonts/?#iefix") format("embedded-opentype"), url("../fonts/subset-Amydor.woff2") format("woff2"), url("../fonts/subset-Amydor.woff") format("woff"), url("../fonts/subset-Amydor.ttf") format("truetype"), url("../fonts/subset-Amydor.svg#Amydor") format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
